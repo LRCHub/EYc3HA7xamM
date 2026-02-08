@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "恋する季節",
+  "base_artist": "natori",
+  "createdAt": "2026-02-08T15:43:19.317523Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋する季節",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/01_恋する季節_ナオト・インティライミ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋する季節",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_恋する季節_なとり.txt"
+    }
+  ]
+}
